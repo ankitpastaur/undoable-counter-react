@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.user-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: purple;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
