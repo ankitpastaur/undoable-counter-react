@@ -21,3 +21,19 @@ button{
   font-weight: bold;
   cursor: pointer;
 }
+
+.history {
+  height: 300px;
+  width: 300px;
+  margin: 100px auto;
+  border: 1px solid black;
+  overflow-y: auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px;
+  font-size: 20px;
+}
